@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cpp/cpp.iml" filepath="$PROJECT_DIR$/../cpp/cpp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../androidLibs/fbjni/fbjni.iml" filepath="$PROJECT_DIR$/../androidLibs/fbjni/fbjni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../androidLibs/third-party/folly/folly.iml" filepath="$PROJECT_DIR$/../androidLibs/third-party/folly/folly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../androidLibs/third-party/glog/glog.iml" filepath="$PROJECT_DIR$/../androidLibs/third-party/glog/glog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../androidLibs/third-party/libpng/libpng.iml" filepath="$PROJECT_DIR$/../androidLibs/third-party/libpng/libpng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../androidLibs/third-party/libwebp/libwebp.iml" filepath="$PROJECT_DIR$/../androidLibs/third-party/libwebp/libwebp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../androidLibs/third-party/mozjpeg/mozjpeg.iml" filepath="$PROJECT_DIR$/../androidLibs/third-party/mozjpeg/mozjpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spectrum-copy.iml" filepath="$PROJECT_DIR$/../spectrum-copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spectrumdefault/spectrumdefault.iml" filepath="$PROJECT_DIR$/spectrumdefault/spectrumdefault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spectrumpluginjpeg/spectrumpluginjpeg.iml" filepath="$PROJECT_DIR$/spectrumpluginjpeg/spectrumpluginjpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spectrumpluginplatform/spectrumpluginplatform.iml" filepath="$PROJECT_DIR$/spectrumpluginplatform/spectrumpluginplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spectrumpluginpng/spectrumpluginpng.iml" filepath="$PROJECT_DIR$/spectrumpluginpng/spectrumpluginpng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spectrumpluginwebp/spectrumpluginwebp.iml" filepath="$PROJECT_DIR$/spectrumpluginwebp/spectrumpluginwebp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spectrumtests/spectrumtests.iml" filepath="$PROJECT_DIR$/spectrumtests/spectrumtests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spectrumtestutils/spectrumtestutils.iml" filepath="$PROJECT_DIR$/spectrumtestutils/spectrumtestutils.iml" />
+    </modules>
+  </component>
+</project>

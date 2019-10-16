@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/spectrumdefault" />
+            <option value="$PROJECT_DIR$/spectrumpluginjpeg" />
+            <option value="$PROJECT_DIR$/spectrumpluginplatform" />
+            <option value="$PROJECT_DIR$/spectrumpluginpng" />
+            <option value="$PROJECT_DIR$/spectrumpluginwebp" />
+            <option value="$PROJECT_DIR$/spectrumtests" />
+            <option value="$PROJECT_DIR$/spectrumtestutils" />
+            <option value="$PROJECT_DIR$/../androidLibs/fbjni" />
+            <option value="$PROJECT_DIR$/../androidLibs/third-party/folly" />
+            <option value="$PROJECT_DIR$/../androidLibs/third-party/glog" />
+            <option value="$PROJECT_DIR$/../androidLibs/third-party/libpng" />
+            <option value="$PROJECT_DIR$/../androidLibs/third-party/libwebp" />
+            <option value="$PROJECT_DIR$/../androidLibs/third-party/mozjpeg" />
+            <option value="$PROJECT_DIR$/../cpp" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

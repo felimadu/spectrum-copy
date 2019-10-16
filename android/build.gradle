@@ -27,6 +27,8 @@ android {
         }
 
         consumerProguardFiles 'proguard-spectrum.pro'
+        versionCode = 1
+        versionName = '1.0'
     }
 
     externalNativeBuild {
